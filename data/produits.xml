@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<produits>
+   <produit>
+      <code>ss</code>
+      <nom>KARIM</nom>
+      <prix>526.73</prix>
+   </produit>
+   <produit>
+      <code>88001</code>
+      <nom>sourisU</nom>
+      <prix>526.73</prix>
+   </produit>
+   <produit>
+      <code>143RI</code>
+      <nom>sourisU</nom>
+      <prix>526.73</prix>
+   </produit>
+   <produit>
+      <code>3389</code>
+      <nom>sourisU</nom>
+      <prix>526.73</prix>
+   </produit>
+   <produit>
+      <code>7757</code>
+      <nom>frfre</nom>
+      <prix>526.73</prix>
+   </produit>
+   <produit>
+      <code>uiiu</code>
+      <nom>KARIM</nom>
+      <prix>526.73</prix>
+   </produit>
+</produits>
